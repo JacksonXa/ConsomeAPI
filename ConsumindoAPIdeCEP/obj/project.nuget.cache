@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tn2yFfDhvKTNAVyYaFyFkeCpgdOR2I8Rq8QpUDRBeZmo81gHbklhqTBzJCXzgI10Qc6yCJmOCDZNWaa6MSCl8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\j_xav\\source\\repos\\ConsumindoAPIdeCEP\\ConsumindoAPIdeCEP\\ConsumindoAPIdeCEP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j_xav\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\bin\Debug\net6.0\ConsumindoAPIdeCEP.exe
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\bin\Debug\net6.0\ConsumindoAPIdeCEP.deps.json
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\bin\Debug\net6.0\ConsumindoAPIdeCEP.runtimeconfig.json
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\bin\Debug\net6.0\ConsumindoAPIdeCEP.dll
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\bin\Debug\net6.0\ConsumindoAPIdeCEP.pdb
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\obj\Debug\net6.0\ConsumindoAPIdeCEP.csproj.AssemblyReference.cache
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\obj\Debug\net6.0\ConsumindoAPIdeCEP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\obj\Debug\net6.0\ConsumindoAPIdeCEP.AssemblyInfoInputs.cache
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\obj\Debug\net6.0\ConsumindoAPIdeCEP.AssemblyInfo.cs
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\obj\Debug\net6.0\ConsumindoAPIdeCEP.csproj.CoreCompileInputs.cache
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\obj\Debug\net6.0\ConsumindoAPIdeCEP.csproj.CopyComplete
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\obj\Debug\net6.0\ConsumindoAPIdeCEP.dll
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\obj\Debug\net6.0\refint\ConsumindoAPIdeCEP.dll
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\obj\Debug\net6.0\ConsumindoAPIdeCEP.pdb
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\obj\Debug\net6.0\ConsumindoAPIdeCEP.genruntimeconfig.cache
+C:\Users\j_xav\source\repos\ConsumindoAPIdeCEP\ConsumindoAPIdeCEP\obj\Debug\net6.0\ref\ConsumindoAPIdeCEP.dll
