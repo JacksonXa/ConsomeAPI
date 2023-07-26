@@ -1,0 +1,17 @@
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\bin\Debug\net6.0\ConsumoApiRest.exe
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\bin\Debug\net6.0\ConsumoApiRest.deps.json
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\bin\Debug\net6.0\ConsumoApiRest.runtimeconfig.json
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\bin\Debug\net6.0\ConsumoApiRest.dll
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\bin\Debug\net6.0\ConsumoApiRest.pdb
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\obj\Debug\net6.0\ConsumoApiRest.csproj.AssemblyReference.cache
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\obj\Debug\net6.0\ConsumoApiRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\obj\Debug\net6.0\ConsumoApiRest.AssemblyInfoInputs.cache
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\obj\Debug\net6.0\ConsumoApiRest.AssemblyInfo.cs
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\obj\Debug\net6.0\ConsumoApiRest.csproj.CoreCompileInputs.cache
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\obj\Debug\net6.0\ConsumoApiRest.dll
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\obj\Debug\net6.0\refint\ConsumoApiRest.dll
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\obj\Debug\net6.0\ConsumoApiRest.pdb
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\obj\Debug\net6.0\ConsumoApiRest.genruntimeconfig.cache
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\obj\Debug\net6.0\ref\ConsumoApiRest.dll
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\j_xav\source\repos\ConsumoApiRest\ConsumoApiRest\obj\Debug\net6.0\ConsumoApiRest.csproj.CopyComplete
